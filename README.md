@@ -3,7 +3,7 @@
 ## Hi there! 👋
 I'm Tharindu Sandaruwan, a passionate software developer specializing in web applications.
 
-## 🚀 Tech Stack
+## 🧑‍💻️ Tech Stack
 - **Languages:** JavaScript, TypeScript, C#
 - **Frontend:** React, NextJs, Typescript, ReactQuery, Tailwind, ShadCN, Figma
 - **Backend:** NodeJs, ExpressJs, ASP .NET Core, JWT, RabbitMQ, Axios, Postman
