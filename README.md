@@ -3,6 +3,9 @@
 ## Hi there! 👋
 I'm Tharindu Sandaruwan, a passionate software developer specializing in web applications.
 
+## 🌐 Portfolio
+Check out my work at: [tharindudev.me](https://www.tharindudev.me/)
+
 ## 🧑‍💻️ Tech Stack
 - **Languages:** JavaScript, TypeScript, C#
 - **Frontend:** React, NextJs, Typescript, ReactQuery, Tailwind, ShadCN, Figma
@@ -16,4 +19,5 @@ I'm Tharindu Sandaruwan, a passionate software developer specializing in web app
 - GitHub: [Tharindu-s](https://github.com/Tharindu-s)
 
 Thanks for stopping by! 😃
+
 
