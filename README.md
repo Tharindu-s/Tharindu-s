@@ -1,6 +1,6 @@
 # About Me
 
-## Hi there! 👋
+## Hi I'm Tharindu, 
 I'm a full-stack developer who loves creating smooth and simple digital experiences. I focus on making things that work well and feel right. Co-founder of a startup, currently working as a freelance web developer and looking for new opportunities.
 
 ## 🌐 Portfolio
